@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Skills",
+    "list": [
+      "Visual design",
+      "Design systems",
+      "Prototyping",
+      "Debugging",
+      "Responsive design",
+      "Adaptable design",
+      "Cross Browser Compatibility"
+    ]
+  },
+  {
+    "title": "Tools",
+    "list": [
+      "VSCode",
+      "Chrome Dev Tools",
+      "Browserstack",
+      "Webpack",
+      "Linter",
+      "Yarn & NPM",
+      "Figma"
+    ]
+  },
+  {
+    "title": "Technologies",
+    "list": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Familiar with Typescript",
+      "ECMAScript 2016",
+      "Vue.js 2",
+      "Vue Router",
+      "Vuex",
+      "Nuxt",
+      "Familiar with React.js",
+      "TailwindCSS"
+    ]
+  }
+]

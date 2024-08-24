@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Skills",
+    "list": [
+      "SQL",
+      "Multitenancy",
+      "Restful API",
+      "Server management",
+      "Debugging",
+      "Event-Driven",
+      "Feature and Unit Testing",
+      "Test driven development"
+    ]
+  },
+  {
+    "title": "Tools",
+    "list": ["VSCode", "Docker", "Postman", "Terminal", "DBeaver", "Composer"]
+  },
+  {
+    "title": "Technologies",
+    "list": [
+      "PHP",
+      "Laravel & It's Ecosystem",
+      "MySQL",
+      "Familiar with PostgreSQL",
+      "Ubuntu (Linux)",
+      "Redis",
+      "Nginx",
+      "AWS"
+    ]
+  }
+]
